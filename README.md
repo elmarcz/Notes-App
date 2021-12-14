@@ -39,7 +39,7 @@ This is an application that allows you to add, delete and view single-person not
 - <b>localhost:3000</b>
 
 ### Dependencies 🔃
-- <b>npm i express express-handlebars express-session method-override mongoose passport passport-local bcryptjs connect-flash</b>
+- <b>npm i express express-handlebars express-session method-override mongoose passport passport-local bcryptjs connect-flash sass</b>
 
 ### Dev Dependencies 📦
 - <b>npm i nodemon -D</b>
