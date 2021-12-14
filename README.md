@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://elmarcz.github.io/Notes-with-Mongodb" target="blank"><img src="src/logo.png" width="160" alt="Dot Logo" /></a>
-  <h1 align="center" href="https://elmarcz.github.io/Notes-with-Mongodb/">Notes-with-Mongodb</h1>
+  <a href="" target="blank"><img src="https://services.garmin.cn/appsLibraryBusinessServices_v0/rest/apps/abae37aa-df56-47e8-91fd-8b85ad85cba0/icon/935e4a06-3986-4186-8a7e-3bf429ac079e" width="160" alt="Dot Logo" /></a>
+  <h1 align="center" href="">Notes-App</h1>
 </p>
 <p align="center">A quite professional notes application using mongodb.</p>
 
