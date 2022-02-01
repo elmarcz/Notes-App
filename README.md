@@ -24,11 +24,11 @@ This is an application that allows you to add, delete and view single-person not
 
 ## 🌃 Freatures
 
-- [ ] Frontend
+- [x] Frontend
 - [x] Backend
-- [ ] Database
+- [x] Database
 
-- [ ] Hosted
+- [x] Hosted
 
 ## 💡 App Info
 ### Start the app 🔌
